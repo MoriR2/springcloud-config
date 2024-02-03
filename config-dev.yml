@@ -4,4 +4,4 @@ server:
 name: config-dev
 
 config:
-  info: 123322-dd
+  info: 1
