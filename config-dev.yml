@@ -2,3 +2,6 @@ server:
   port: 123
 
 name: config-dev
+
+config:
+  info: 123322-dd
